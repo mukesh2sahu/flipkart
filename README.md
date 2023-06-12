@@ -1,13 +1,12 @@
-ADMIN PANEL LOGIN:
-
-Username: admin@admin.com
-Password: password
-
 USER LOGIN:
 
 Username: mukeshsahurkl1@gmail.com
 Password: mukesh
 
+ADMIN PANEL LOGIN:
+
+Username: admin@admin.com
+Password: password
 
 The technology that i have used in this project are:- 1.HTML 2.CSS 3.JavaScript 4.PHP 5.MySQL
 
